@@ -1,4 +1,4 @@
-# 10315 Intro. ML Final Project
+# 10315 Intro. ML Final Project - Bank Note Authentication
 
 The Jupyter notebook is all that is needed for the training and evaluation of the models. Simply run the entire notebook once you have set the flags to their desired settings.
 
