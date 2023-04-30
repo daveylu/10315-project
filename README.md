@@ -1,4 +1,4 @@
-# CMU 10315 Intro. ML Final Project - Bank Note Authentication
+# 10315 Intro. ML Final Project - Bank Note Authentication
 
 ## Overview
 
