@@ -1,7 +1,5 @@
 # 10315 Intro. ML Final Project
 
-Usage:
-
 The Jupyter notebook is all that is needed for the training and evaluation of the models. Simply run the entire notebook once you have set the flags to their desired settings.
 
 There are two flags: whether to train the models from scratch or download and evaluate pre-trained models, and whether to save the trained models to local storage or not.
