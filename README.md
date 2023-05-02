@@ -21,4 +21,4 @@ Google Drive Folder: https://drive.google.com/drive/folders/1-VUNtb8tCAZzGL3gzKW
 
 Colab Notebook: https://drive.google.com/file/d/1n_F9UeiKM164DZvP9ex7yQGmrJH2I-KA/view?usp=sharing
 
-Paper: https://drive.google.com/file/d/1n_F9UeiKM164DZvP9ex7yQGmrJH2I-KA/view?usp=sharing
+Paper: https://docs.google.com/document/d/1WLLVxVRcdvl-oY1A34aNDX5C0T9cczWbfK3k_QMwQvg/edit?usp=sharing
